@@ -1,2 +1,4 @@
 nltk
 matplotlib
+pandas
+numpy
